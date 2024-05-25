@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../VSCode/pindie-backend"
+		}
+	],
+	"settings": {}
+}
